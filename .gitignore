@@ -1,2 +1,6 @@
+*.pyc
+faker.ng/*.pyc
+app.py
 config.py
 /faker.ng/venv
+Faker.ng.*
